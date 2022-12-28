@@ -1,0 +1,1 @@
+<link rel="shortcut icon" href="/WebRoot/Store/Shops/......./MediaGallery/favicon.ico" type="image/x-icon"/>
